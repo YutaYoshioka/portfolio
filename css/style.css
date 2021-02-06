@@ -403,6 +403,12 @@ li {
   text-align: center;
 }
 
+.GitHub-item {
+  width: 70px;
+  margin: 0 20px;
+  text-align: center;
+}
+
 .contact-text {
   margin-top: 10px;
   text-align: center;
